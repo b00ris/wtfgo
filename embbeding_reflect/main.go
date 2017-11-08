@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/b00ris/wtfgo/multiple_panics/wheel"
+	"./wheel"
 )
 
 type Bodywork struct {
