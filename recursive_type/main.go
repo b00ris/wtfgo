@@ -1,16 +1,13 @@
 //Thanks Eugene Danilenko for this example
 package main
 
-import (
-	"fmt"
-)
-
 type ___ []___
 
-func (____ ___) __(_ ___) {
-	fmt.Println(____)
+func (____ ___) __(_ ___) struct{ ___ } {
+	return struct{ ___ }{____}
 }
 
 func main() {
 	___{}.__(___{})
 }
+
